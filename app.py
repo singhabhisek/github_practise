@@ -5,7 +5,7 @@ import streamlit as st
 # --- Page functions ---
 def home_page():
     """Defines the content for the Home page."""
-    st.title("Welcome to My Website! 👋")
+    st.title("Welcome to My Website - SAmple! 👋")
     st.markdown("""
         This is the home page of your new Streamlit app.
         You can add text, images, charts, and interactive widgets here.
